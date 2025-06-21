@@ -51,7 +51,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ####  Job Titles - Median Salary Bar Chart
 
-![Dashboard Preview](/Content/Salary%20dashboard%20gif.gif)
+![Dashboard Preview](/Content/title%20vs%20median%20gif.gif)
 
 -  **Excel Features:** Horizontal bar chart built using dynamic named ranges powered by `XLOOKUP` and `FILTER`.
 -  **Design Choice:** Sorted by descending salary for quick comparative analysis.
@@ -63,7 +63,9 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 #### 🗺️ Country-wise Median Salary Map Chart
 
-![Dashboard Preview](/Content/Salary%20dashboard%20gif.gif)
+![Dashboard Preview](/Content/map%20gif.gif)
+
+![Dashboard Preview](/Content/map%202%20gif.gif)
 
 -  **Excel Features:** Map chart plotted from `country_med_salary` sheet, with country names dynamically linked to their median salary.
 -  **Design Choice:** Heatmap style with color gradients to indicate salary tiers visually.
@@ -75,7 +77,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 #### 📅 Work Schedule Type - Median Salary Bar Chart
 
-![Dashboard Preview](/Content/Salary%20dashboard%20gif.gif)
+![Dashboard Preview](/Content/type%20bar%20gif.gif)
 
 -  **Excel Features:** Bar chart created from `type` sheet, using formulas like `MEDIAN`, `IF`, and dynamic filtering.
 -  **Design Choice:** Emphasizes contrast between Full-time, Part-time, and Internship salaries.
