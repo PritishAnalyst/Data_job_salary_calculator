@@ -67,9 +67,9 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ![Dashboard Preview](/Content/map%202%20gif.gif)
 
--  **Excel Features:** Map chart plotted from `country_med_salary` sheet, with country names dynamically linked to their median salary.
+-  **Excel Features:** Map chart plotted from `country_med_salary` sheet, with country names dynamically linked to their median salary for a particular job title.
 -  **Design Choice:** Heatmap style with color gradients to indicate salary tiers visually.
--  **Data Representation:** Automatically updates based on selected countries from the dashboard.
+-  **Data Representation:** Automatically updates based on selected job title and job type from the dashboard.
 -  **Insights Gained:** Offers a regional salary perspective, helping users assess how location impacts pay — while also showing that high-paying regions are not always aligned with role-specific demand.
 
 
@@ -82,7 +82,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 -  **Excel Features:** Bar chart created from `type` sheet, using formulas like `MEDIAN`, `IF`, and dynamic filtering.
 -  **Design Choice:** Emphasizes contrast between Full-time, Part-time, and Internship salaries.
 -  **Responsive Dashboard:** Chart updates dynamically when a different schedule type is selected.
--  **Insights Gained:** Encourages comparison between full-time, internship, and part-time roles, shedding light on how work arrangement and availability affect pay expectations — without assuming a fixed hierarchy.
+-  **Insights Gained:** Encourages comparison between full-time, internship, contractor, temp work and part-time roles, shedding light on how work arrangement and availability affect pay expectations — without assuming a fixed hierarchy.
 
 
 ---
@@ -101,7 +101,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 ## 📌 Insights Unlocked
 
 - Senior roles and engineering positions tend to offer higher median salaries
-- Regional variations are clearly visible; countries like the U.S. and France report the highest averages
+- Regional variations are clearly visible
 - Internship and part-time roles offer significantly lower compensation but vary by region
 
 ---
