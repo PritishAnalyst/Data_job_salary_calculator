@@ -1,4 +1,4 @@
-# 📊 Data Jobs Salary Intelligence Dashboard
+#  Data Jobs Salary Intelligence Dashboard
 
 ![Dashboard Preview](/Content/Salary%20dashboard%20gif.gif)
 
@@ -14,7 +14,7 @@ This project presents a dynamic Excel-based dashboard designed to explore and co
 
 ---
 
-## 💼 Dataset
+## 🧾 Dataset
 
 The dataset includes real-world data job postings from 2023 and contains:
 
@@ -23,6 +23,17 @@ The dataset includes real-world data job postings from 2023 and contains:
 - Salary details
 - Schedule types (e.g., Full-time, Internship)
 - Work-from-home indicators
+
+---
+## 📥 How to Use 
+
+1. Download and open the file: [Download the Excel Dashboard](./Data%20Jobs%20Salary%20Dashboard.xlsx)
+
+2. Use the dropdowns on the dashboard to select:
+   - Job Title
+   - Country
+   - Work Schedule
+3. Dashboard updates automatically to reflect salary trends
 
 ---
 
@@ -41,7 +52,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ## 📈 Key Features & Excel Skills Demonstrated
 
-### 🧮 Advanced Formulas
+### 🔢 Advanced Formulas
 
 - **Array formulas** using `MEDIAN`, `IF`, `SEARCH` for multi-condition filtering
 - **Lookup logic** via `XLOOKUP` to retrieve salary stats dynamically
@@ -59,9 +70,8 @@ The dataset includes real-world data job postings from 2023 and contains:
 -   **Insights Gained:** This chart allows users to uncover role-based salary patterns and spot outliers — highlighting how job function and specialization can influence compensation, not just seniority.
 
 
----
 
-#### 🗺️ Country-wise Median Salary Map Chart
+####  Country-wise Median Salary Map Chart
 
 ![Dashboard Preview](/Content/map%20gif.gif)
 
@@ -73,9 +83,8 @@ The dataset includes real-world data job postings from 2023 and contains:
 -  **Insights Gained:** Offers a regional salary perspective, helping users assess how location impacts pay — while also showing that high-paying regions are not always aligned with role-specific demand.
 
 
----
 
-#### 📅 Work Schedule Type - Median Salary Bar Chart
+####  Work Schedule Type - Median Salary Bar Chart
 
 ![Dashboard Preview](/Content/type%20bar%20gif.gif)
 
@@ -115,17 +124,6 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ---
 
-## 📥 How to Use 
-
-1. Download and open the file: [Download the Excel Dashboard](./Data%20Jobs%20Salary%20Dashboard.xlsx)
-
-2. Use the dropdowns on the dashboard to select:
-   - Job Title
-   - Country
-   - Work Schedule
-3. Dashboard updates automatically to reflect salary trends
-
----
 
 ## 📌 Future Improvements
 
@@ -143,5 +141,5 @@ If you'd like to connect, collaborate, or discuss improvements:
 - 📬 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
 - 🧑‍💼 LinkedIn: https://linkedin.com/in/pritish1298
 
----
+----
 
