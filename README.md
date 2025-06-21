@@ -94,7 +94,6 @@ The dataset includes real-world data job postings from 2023 and contains:
 -  **Insights Gained:** Encourages comparison between full-time, internship, contractor, temp work and part-time roles, shedding light on how work arrangement and availability affect pay expectations — without assuming a fixed hierarchy.
 
 
----
 
 
 ### ✅ Data Validation
