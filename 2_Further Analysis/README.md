@@ -11,7 +11,6 @@ The analysis was conducted entirely in Microsoft Excel using advanced features s
 ## 📌 Key Questions Explored
 
 - Do more skills lead to higher salaries?
-- What are the salary trends for data jobs across regions?
 - What are the most in-demand skills in the data industry?
 - How do salaries vary across the top 10 skills?
 
@@ -54,27 +53,11 @@ The following Excel features were used to conduct the analysis:
 
 This finding suggests that cultivating a broader technical skill set can enhance earning potential in the data domain.
 
----
 
-## 🌍 2. Salary Trends Across Regions
-
-### Approach
-
-- Utilized PivotTables with Power Pivot to aggregate median salaries by job role and region.
-- Employed DAX to calculate the median salary for U.S.-based roles.
-
-### Insights
-
-- U.S.-based roles consistently offered higher median salaries, particularly for senior technical positions.
-- The disparity in pay suggests geographical location continues to be a strong determinant of compensation in the tech industry.
-
-### Interpretation
-
-These insights are valuable for professionals considering relocation or negotiating salaries in a global job market.
 
 ---
 
-## 🔧 3. Most In-Demand Skills in Data Roles
+## 🔧 2. Most In-Demand Skills in Data Roles
 
 ### Approach
 
@@ -82,27 +65,31 @@ These insights are valuable for professionals considering relocation or negotiat
 - Built relational models between `job_id` in both datasets.
 - Analyzed the frequency and distribution of specific skills across job postings.
 
+
+![Dashboard Preview](/Data_job_salary_calculator/0_Content/skill%20job%20analysis.gif)
 ### Insights
 
-- **SQL** and **Python** were the most frequently requested skills, confirming their foundational importance in data work.
+- **SQL** , **Excel** and **Python** were the most frequently requested skills, confirming their foundational importance in data work.
 - Cloud platforms such as **AWS** and **Azure** are increasingly prevalent, reflecting industry trends towards cloud-native solutions.
 
 ### Interpretation
 
-Professionals should prioritize core data skills (**SQL**, **Python**) while also gaining exposure to cloud services for enhanced employability.
+Professionals should prioritize core data skills (**SQL**, **Excel** and **Python**) while also gaining exposure to cloud services for enhanced employability.
 
 ---
 
-## 💼 4. Salary Comparison for Top 10 Skills
+## 💼 3. Salary Comparison for Top 10 Skills
 
 ### Approach
 
 - Created combo PivotCharts to visualize salary trends and skill frequency.
+![Dashboard Preview](/Data_job_salary_calculator/0_Content/combo%20pivot%20chart.png)
 - Plotted median salary against skill likelihood for the top 10 technologies.
+![Dashboard Preview](/Data_job_salary_calculator/0_Content/skill%20likelihood%20x%20median%20salary.png)
 
 ### Insights
 
-- **Python**, **SQL**, and **Oracle** are associated with higher average compensation.
+- **Python**, **SQL**, and **Oracle** are associated with higher median compensation.
 - Office tools like **PowerPoint** and **Word**, while occasionally listed, do not contribute significantly to salary increases.
 
 ### Interpretation
@@ -113,7 +100,7 @@ Investing in high-value technical skills is key to securing competitive salaries
 
 ## 📌 Conclusion
 
-This project offers actionable insights into the skills and roles that define today's data job market. The findings highlight the tangible value of technical proficiency, regional salary variations, and the growing demand for cloud and programming expertise.
+This project offers actionable insights into the skills and roles that define today's data job market. The findings highlight the tangible value of technical proficiency and the growing demand for cloud and programming expertise.
 
 By leveraging Excel’s advanced analytical tools, this analysis demonstrates how non-code platforms can still yield rich, impactful data insights—making it accessible for both aspiring data professionals and business stakeholders.
 

@@ -124,20 +124,14 @@ The dataset includes real-world data job postings from 2023 and contains:
 ---
 
 
-## 📌 Future Improvements
 
-- Integrate Power Query for live data fetching
-- Add slicers and pivot charts for advanced filtering
-- Convert to web-based dashboard using Power BI / Tableau
 
----
-
-## 📧 Contact
+## 📫 Contact
 
 Made with precision by **Pritish Kumar Singh**  
 If you'd like to connect, collaborate, or discuss improvements:
 
-- 📬 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
+- 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
 - 🔗 GitHub: [https://github.com/PritishAnalyst](https://github.com/PritishAnalyst)
 - 🧑‍💼 LinkedIn: https://linkedin.com/in/pritish1298
 
