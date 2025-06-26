@@ -1,6 +1,6 @@
 #  Data Jobs Salary Intelligence Dashboard
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/Salary%20dashboard%20gif.gif )
+![Dashboard Preview](/assets/Salary%20dashboard%20gif.gif )
 
 ## Overview
 
