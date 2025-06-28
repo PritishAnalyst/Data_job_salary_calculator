@@ -27,7 +27,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 ---
 ## 📥 How to Use 
 
-1. Download and open the file: [Download the Excel Dashboard](./Data%20Jobs%20Salary%20Dashboard.xlsx)
+1. Download and open the file: [Download the Excel Dashboard](/assets/Data%20Jobs%20Salary%20Dashboard.xlsx)
 
 2. Use the dropdowns on the dashboard to select:
    - Job Title
@@ -62,7 +62,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ####  Job Titles - Median Salary Bar Chart
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/title%20vs%20median%20gif.gif)
+![Dashboard Preview](/assets/title%20vs%20median%20gif.gif)
 
 -  **Excel Features:** Horizontal bar chart built using dynamic named ranges powered by `XLOOKUP` and `FILTER`.
 -  **Design Choice:** Sorted by descending salary for quick comparative analysis.
@@ -73,9 +73,9 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ####  Country-wise Median Salary Map Chart
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/map%20gif.gif)
+![Dashboard Preview](/assets/map%20gif.gif)
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/map%202%20gif.gif)
+![Dashboard Preview](/assets/map%202%20gif.gif)
 
 -  **Excel Features:** Map chart plotted from `country_med_salary` sheet, with country names dynamically linked to their median salary for a particular job title.
 -  **Design Choice:** Heatmap style with color gradients to indicate salary tiers visually.
@@ -86,7 +86,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ####  Work Schedule Type - Median Salary Bar Chart
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/type%20bar%20gif.gif)
+![Dashboard Preview](/assets/type%20bar%20gif.gif)
 
 -  **Excel Features:** Bar chart created from `type` sheet, using formulas like `MEDIAN`, `IF`, and dynamic filtering.
 -  **Design Choice:** Emphasizes contrast between Full-time, Part-time, and Internship salaries.
@@ -128,7 +128,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ## 📫 Contact
 
-Made with precision by **Pritish Kumar Singh**  
+ **Pritish Kumar Singh**  
 If you'd like to connect, collaborate, or discuss improvements:
 
 - 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)

@@ -34,16 +34,16 @@ The following Excel features were used to conduct the analysis:
 - Extracted and cleaned the job data using Power Query.
 - Created separate queries for job listings and job-related skills.
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/Data%20jobs%20all%20power%20query.png)
+![Dashboard Preview](/assets/Data%20jobs%20all%20power%20query.png)
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/Data%20job%20skills%20power%20query.png)
+![Dashboard Preview](/assets/Data%20job%20skills%20power%20query.png)
 - Built a data model connecting job roles and their associated skills.
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/Data%20model%20diagram.png)
+![Dashboard Preview](/assets/Data%20model%20diagram.png)
 - Analyzed the correlation between the number of listed skills and average salary.
 
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/Salary-skills%20window.png)
+![Dashboard Preview](/assets/Salary-skills%20window.png)
 ### Insights
 
 - A positive correlation exists: roles requiring more technical skills (such as **Senior Data Engineer**, **Data Scientist**) tend to offer significantly higher compensation.
@@ -66,7 +66,7 @@ This finding suggests that cultivating a broader technical skill set can enhance
 - Analyzed the frequency and distribution of specific skills across job postings.
 
 
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/skill%20job%20analysis.gif)
+![Dashboard Preview](/assets/skill%20job%20analysis.gif)
 ### Insights
 
 - **SQL** , **Excel** and **Python** were the most frequently requested skills, confirming their foundational importance in data work.
@@ -83,9 +83,9 @@ Professionals should prioritize core data skills (**SQL**, **Excel** and **Pytho
 ### Approach
 
 - Created combo PivotCharts to visualize salary trends and skill frequency.
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/combo%20pivot%20chart.png)
+![Dashboard Preview](/assets/combo%20pivot%20chart.png)
 - Plotted median salary against skill likelihood for the top 10 technologies.
-![Dashboard Preview](/Data_job_salary_calculator/0_Content/skill%20likelihood%20x%20median%20salary.png)
+![Dashboard Preview](/assets/skill%20likelihood%20x%20median%20salary.png)
 
 ### Insights
 
@@ -110,6 +110,7 @@ By leveraging Excel’s advanced analytical tools, this analysis demonstrates ho
 
 
 **Pritish Kumar Singh**  
+If you'd like to connect, collaborate, or discuss improvements:
 - 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
 - 🔗 GitHub: [https://github.com/PritishAnalyst](https://github.com/PritishAnalyst)  
 - 🧑‍💼 LinkedIn: https://linkedin.com/in/pritish1298
