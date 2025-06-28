@@ -1,5 +1,5 @@
 #  Data Jobs Salary Intelligence Dashboard
-
+---
 ![Dashboard Preview](/assets/Salary%20dashboard%20gif.gif )
 
 ## Overview
@@ -27,7 +27,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 ---
 ## 📥 How to Use 
 
-1. Download and open the file: [Download the Excel Dashboard](/assets/Data%20Jobs%20Salary%20Dashboard.xlsx)
+1. Download and open the file: [Download the Excel Dashboard](/1_Salary%20Intelligence%20Dashboard/Data%20Jobs%20Salary%20Dashboard.xlsx)
 
 2. Use the dropdowns on the dashboard to select:
    - Job Title
@@ -128,7 +128,7 @@ The dataset includes real-world data job postings from 2023 and contains:
 
 ## 📫 Contact
 
- **Pritish Kumar Singh**  
+ ### **Pritish Kumar Singh**  
 If you'd like to connect, collaborate, or discuss improvements:
 
 - 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
